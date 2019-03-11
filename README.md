@@ -53,6 +53,8 @@ This  website was tested on multiple browsers (Chrome, Safari, FireFox) and on m
 
 The link to clone repository locally in the git terminal: https://github.com/wladcistudent/milestone_project_1.git
 
+The link of github pages will take you to the final deployed website: https://wladcistudent.github.io/milestone_project_1/
+
 <strong>#Validation of the coding</strong>
 
 I have validated the html 5 codes on: https://validator.w3.org/#validate_by_input
