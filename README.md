@@ -18,7 +18,7 @@ The website link can be found <a href="https://wladcistudent.github.io/milestone
 
 My goal for the design was very simple: to make a colorful, intuitive and understandable website consist of 4 pages. I have chosen to use different colors for the website for the best user experience, since its a retro website.
 
-On the first page (home-page) the user is able to easily navigate by scrolling through the page, going to different pages of the website,  watch the video of the band and look throught the images. On the second page (about-page) the user could read extensively about the artists. On the third page (music-page) the user could listen to the audio files of the band. Eventually on the last page (bookings-page) the user could fill the form to book the band and ask for a quote.
+On the first page (home-page) the user is able to easily navigate by scrolling through the page, going to different pages of the website,  watch the video of the band and look through the images. On the second page (about-page) the user could read extensively about the artists. On the third page (music-page) the user could listen to the audio files of the band. Eventually on the last page (bookings-page) the user could fill the form to book the band and ask for a quote.
 
 <strong>#Technologies Used</strong>
 
@@ -35,6 +35,9 @@ On the first page (home-page) the user is able to easily navigate by scrolling t
 In the header section, the user is able to scroll through the page. The website displays the band image on top. If a user clicks on the image it will always return to the main page. Below the image the user will find the navigation with the home section, about section, music section and bookings section. The navigation elements hover and are clickable that take the user to different pages of the website. This remains the same for all 4 pages.
 
 The footer section remains the same for all the pages. The section displays information about the latest news subscription (hovers on "Subscribe" tested) , the social media icons created via font awesome and extensively tested (the icons hover and are connected tothe official pages of the band), subscription form with a button (the button is clickable and hovers) and a copyright area.
+facebook: https://nl-nl.facebook.com/TheMonkees
+twitter: https://twitter.com/themonkees
+youtube: https://www.youtube.com/user/themonkees
 
 In the "Home" section the user is able to see the link to the booking page to book the band and get the latest quote (the button will take the user to the "bookings section"), to look over the four images of the band (the images hover when the user scroll below the page) and to watch the video "Day Dream Believer" ( The video starts by clicking on the video area)
 
